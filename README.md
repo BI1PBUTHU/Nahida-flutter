@@ -2,7 +2,7 @@ English | [简体中文](README_zh.md)
 
 <!-- Title-->
 <p align="center">
-  <img src="https://github.com/xiaochenthu/nahida_flutter/blob/main/android/app/src/main/ic_launcher-playstore.png" alt="flutter_server_box" width="320" height="320" />
+  <img src="https://github.com/xiaochenthu/Nahida-flutter/blob/main/android/app/src/main/ic_launcher-playstore.png" alt="flutter_server_box" width="320" height="320" />
 </p>
 
 <!-- Badges-->
